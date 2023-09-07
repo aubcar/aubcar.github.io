@@ -3,6 +3,10 @@ layout: default
 ---
 
 https://raw.githubusercontent.com/aubcar/aubcar.github.io/master/docs/WEEK 1 2023 FOOTBALL PREDICTIONS 2023 .xlsx
+https://raw.githubusercontent.com/aubcar/aubcar.github.io/master/docs/football.xlsx
+
+
+
 
 <iframe src="https://onedrive.live.com/embed?resid=D3FA2320EDAB3272%211053&authkey=!AKyXjp0kiRmFcP4&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
 
